@@ -38,6 +38,7 @@ kotlin {
             implementation(compose.runtime)
             api(compose.foundation)
             api(compose.animation)
+            api(compose.materialIconsExtended)
             implementation(compose.foundation)
             implementation(compose.material)
             implementation(compose.ui)
