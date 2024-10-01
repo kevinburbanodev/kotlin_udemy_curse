@@ -30,7 +30,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import org.example.expensesapp.DarkModeColors
-import org.example.expensesapp.data.ExpenseManager
 import org.example.expensesapp.getColorsTheme
 import org.example.expensesapp.model.Expense
 import org.example.expensesapp.presentation.ExpensesUiState
